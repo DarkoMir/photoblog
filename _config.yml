@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "http://aferrero2707.github.io/photorama/gallery/"  
-  - JOURNAL: "http://aferrero2707.github.io/photorama/journal/"
-  - ABOUT: "http://aferrero2707.github.io/photorama/about/"
+#  - JOURNAL: "http://aferrero2707.github.io/photorama/journal/"
+#  - ABOUT: "http://aferrero2707.github.io/photorama/about/"
 
 # All translation keys
 translations:
