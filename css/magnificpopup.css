@@ -134,7 +134,7 @@ button::-moz-focus-inner {
   top: 0;
   text-decoration: none;
   text-align: center;
-  opacity: 0.65;
+  opacity: 0.25;
   padding: 0 0 18px 10px;
   color: #FFF;
   font-style: normal;
@@ -168,7 +168,7 @@ button::-moz-focus-inner {
 
 .mfp-arrow {
   position: absolute;
-  opacity: 0.65;
+  opacity: 0.25;
   margin: 0;
   top: 50%;
   margin-top: -55px;
