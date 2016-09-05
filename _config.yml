@@ -1,11 +1,11 @@
 # Site settings
-title: PHOTORAMA
+title: Darko's photo Blog
 email: ""
 description: "Photo Journal"
-url: "http://aferrero2707.github.io"
-baseurl: "/photorama"
-store_url: "http://aferrero2707.github.io"
-store_baseurl: "/photostore/archive/"
+url: "http://darkomir.github.io"
+baseurl: "/photoblog"
+store_url: "http://darkomir.github.io"
+store_baseurl: "/photodrive/archive/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -17,7 +17,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   photoblog
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -35,9 +35,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://aferrero2707.github.io/photorama/gallery/"  
-#  - JOURNAL: "http://aferrero2707.github.io/photorama/journal/"
-#  - ABOUT: "http://aferrero2707.github.io/photorama/about/"
+  - GALLERY: "http://darkomir.github.io/photoblog/gallery/"  
+#  - JOURNAL: "http://darkomir.github.io/photoblog/journal/"
+#  - ABOUT: "http://darkomir.github.io/photoblog/about/"
 
 # All translation keys
 translations:
