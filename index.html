@@ -1,15 +1,15 @@
 ---
 layout: home
 main-title: "Sprazzi di colore"
-subtitle: "piccolo photoblog"
+subtitle: "Il mio piccolo photoblog"
 description: "Fotografia e altro"
 images:
- - image_path: https://lh6.googleusercontent.com/dHFmax_tGj1FX8iF3RfVxT8HJ3SvicsmebsI0eXQys78rZXeACzRT3k8R4tF93G1a17hop0uq6Wa-edvqkIH0A
-   gallery-folder: /img/slider/
- - image_path: https://lh6.googleusercontent.com/Ai9aIsW5hyCafcbWwJOkoMVix8Z7ojupk_qFfrbutnQJsMfYJgoEYVvzEYw0tPdiPW-bIFAuOMYPUajTuVivhA
-   gallery-folder: /img/slider/
- - image_path: 
-   gallery-folder: /img/slider/
+ - image_path: street/estintore
+   gallery-folder: /gallery/street/
+ - image_path: bw/bubble
+   gallery-folder: /gallery/bw/
+ - image_path: landscape/strombolicchio
+   gallery-folder: /gallery/landscape/
 ---
 
 
@@ -59,8 +59,8 @@ images:
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-<img src="{{ image.image_path }}"></a>
+<a href="{{ site.sort_url }}{{ site.sort_baseurl }}{{ image.gallery-folder }}">
+<img src="{{ site.sort_url }}{{ site.sort_baseurl }}{{ image.image_path }}-web.jpg"></a>
 	
 				</header>	
 				</figure>
